@@ -1,6 +1,8 @@
 # 콘서트 공정 예매 서비스(My universe)
 <img src="https://user-images.githubusercontent.com/109687076/184577762-eb9f20c4-801c-4209-878f-466559adf83f.JPG" width="60%">
 
+[관련자료](http://yerin.creatorlink.net/CONCERT-BOOKING-SITE)
+
 ## 1. Duration
 - 2019.03 ~ 2019.06
 - Team Project(4 members)
