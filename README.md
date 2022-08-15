@@ -1,17 +1,26 @@
-2조 중수소팀
------------
-##### 데이터베이스 설계 프로젝트(2019-1학기)
+# 콘서트 공정 예매 서비스(My universe)
+<img src="https://user-images.githubusercontent.com/109687076/184577762-eb9f20c4-801c-4209-878f-466559adf83f.JPG" width="60%">
 
-콘서트 공정 예매 서비스(My universe)
-==================================
+## 1. Duration
+- 2019.03 ~ 2019.06
+- Team Project(4 members)
 
-* 사용 시스템 환경<br>
+## 2. Skills - 사용 시스템 환경
     * OS: Windows, Mac
     * Language: Python, html/css, javascripts
     * framework: Django
     * DBMS: PostgreSQL
 
-<br>
+## 3. Contents 
+
+<img src="https://user-images.githubusercontent.com/109687076/184578078-13ca29d4-384e-4adb-aaa9-a151d1b330d8.JPG" width="50%"><img src="https://user-images.githubusercontent.com/109687076/184578079-2cc8687d-c1bb-4c3e-9841-0b0fbd062279.JPG" width="50%">
+<img src="https://user-images.githubusercontent.com/109687076/184578080-f42207e5-9397-4e7c-b37b-60b414e50708.JPG" width="50%"><img src="https://user-images.githubusercontent.com/109687076/184578082-e3d7cbc5-d8bc-4705-8c4d-aaf2c7bd0dd2.JPG" width="50%">
+<img src="https://user-images.githubusercontent.com/109687076/184578085-dd308447-69b9-459e-8a59-b33e9560c6d5.JPG" width="50%"><img src="https://user-images.githubusercontent.com/109687076/184578070-9955113e-e2d7-4bd4-a3a2-fe69d5969e32.JPG" width="50%">
+<img src="https://user-images.githubusercontent.com/109687076/184578073-6bcceeaa-14d7-4ebe-b23c-389b23b5bc0f.JPG" width="50%"><img src="https://user-images.githubusercontent.com/109687076/184578074-caf74e8a-53db-41c3-b028-a1c181e825ce.JPG" width="50%">
+<img src="https://user-images.githubusercontent.com/109687076/184578076-2c7cb533-0129-45e0-8594-c97608c83ec8.JPG" width="50%"><img src="https://user-images.githubusercontent.com/109687076/184578077-e9b1fdcd-c5f6-4bbb-95d9-f206578280b8.JPG" width="50%">
+
+
+## 4. Results
 
 * 설계 목표 달성 정도<br><br>
     1. 회원 및 비회원 권한
